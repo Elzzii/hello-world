@@ -1,2 +1,2 @@
 # hello-world
-test directory
+test repo
